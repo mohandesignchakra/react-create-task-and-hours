@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Daily Meeting",
+      "day": "17-07-2022",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Client Call Attended",
+      "day": "17-07-2022 , 1:45 hrs",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
