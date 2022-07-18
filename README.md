@@ -1,4 +1,4 @@
-# React Crash Course 2021 (Task Tracker App)
+# React Crash Course 2022 (Task Tracker App)
 
 ## Usage
 
