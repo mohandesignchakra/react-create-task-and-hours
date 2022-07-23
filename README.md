@@ -1,4 +1,4 @@
-# React Create Task and Hours (Task Tracker App)
+# React Create Task and Hours Component (Task Tracker App)
 
 ## Usage
 
